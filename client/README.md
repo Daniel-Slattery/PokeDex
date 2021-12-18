@@ -1,4 +1,10 @@
-# Pokemon
+# Angular Pokemon
+
+An Angular app for browsing Pokémons. In other words, your own [Pokédex](https://www.pokemon.com/us/pokedex/).
+
+## Interacting with the Pokeapi
+
+A one page App that makes HTTP requests to the [Pokeapi](https://pokeapi.co/).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
