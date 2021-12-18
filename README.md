@@ -1,12 +1,12 @@
 # Angular Pokemon
 
-[https://daniel-slattery.github.io/PokeDex/]("https://daniel-slattery.github.io/PokeDex/"),
+https://daniel-slattery.github.io/PokeDex/
 
 An Angular app for browsing Pokémons. In other words, your own [Pokédex](https://www.pokemon.com/us/pokedex/).
 
 ## Interacting with the Pokeapi
 
-A one page App that makes HTTP requests to the [Pokeapi](https://pokeapi.co/).
+A single page App that makes HTTP requests to the [Pokeapi](https://pokeapi.co/). Fetches data and diplays on the page.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
