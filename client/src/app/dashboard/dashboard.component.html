@@ -1,0 +1,12 @@
+<ul class="pokemons">
+  <li *ngFor='let pokemon of pokemons'>
+    <nav>
+      <a routerLink="/pokemon/{{pokemon.name}}">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/{{pokemons.indexOf(pokemon) + 1}}.png">
+        <h4>{{pokemon.name | uppercase}} </h4>
+      </a>
+    </nav>
+
+  </li>
+</ul>
+

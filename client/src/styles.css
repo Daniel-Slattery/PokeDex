@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  background-color: rgba(255,202,0,255);
+  background-image: url('https://wallpapercave.com/wp/cqhO8rQ.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -200px;
+  background-attachment: fixed;
+}
