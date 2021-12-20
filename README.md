@@ -1,6 +1,6 @@
 # Angular Pokemon
 
-https://daniel-slattery.github.io/PokeDex/
+https://pokedex-854eb.web.app/
 
 An Angular app for browsing Pokémons. In other words, your own [Pokédex](https://www.pokemon.com/us/pokedex/).
 
