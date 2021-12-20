@@ -17,4 +17,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_POKEDEX_854EB }}'
           channelId: live
           projectId: pokedex-854eb
-          entryPoint: "./clients"
+          entryPoint: "./client"
