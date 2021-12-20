@@ -7,7 +7,7 @@
     "start": "ng serve",
     "build": "ng build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "firebase deploy",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
